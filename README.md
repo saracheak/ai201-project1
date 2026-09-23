@@ -53,30 +53,51 @@
 
      Milestone 3. -->
 
-**Chunk 1** — source: `` — produced by: ``
+======================================================================
+Chunk 1  |  source: admin_add_drop_deadline.txt#0  |  produced by: chunker.py::fallback_split
+======================================================================
+On the add/drop deadline
 
-```
-```
+You can add a course through the end of the second week. Dropping is a longer window — through the end of week six — but a drop after week two shows as a W on your transcript. Nothing anywhere on the registrar's site says this plainly, and students find out from each other.
 
-**Chunk 2** — source: `` — produced by: ``
+======================================================================
+Chunk 2  |  source: course_biol_160_exams.txt#0  |  produced by: chunker.py::fallback_split
+======================================================================
+BIOL 160 Cell Biology — assessment
 
-```
-```
+Four unit tests and a cumulative final. Not curved.
 
-**Chunk 3** — source: `` — produced by: ``
+The unit tests come fast, roughly every three weeks; falling behind once is very hard to recover from.
 
-```
-```
+======================================================================
+Chunk 3  |  source: course_math_220.txt#1  |  produced by: chunker.py::fallback_split
+======================================================================
+- median.
 
-**Chunk 4** — source: `` — produced by: ``
+Expect 6 to 8 hours a week, almost all of it on problem sets.
 
-```
-```
+The one piece of advice: the problem sets are the course; the lectures make sense afterwards rather than during.
 
-**Chunk 5** — source: `` — produced by: ``
+======================================================================
+Chunk 4  |  source: dining_the_ridgeway_cafe.txt#0  |  produced by: chunker.py::fallback_split
+======================================================================
+The Ridgeway Café
 
-```
-```
+Second-year here. Wait times: 10 to 15 minutes at 12:30, none after 2:00. The thing worth going for is the only place on campus with real espresso. The thing to know is that seating is tight; about 40 seats for a building of 900.
+
+Hours are 7:00am to 4:00pm weekdays only. Costs declining balance o
+
+======================================================================
+Chunk 5  |  source: housing_innisfree_hall_noise.txt#0  |  produced by: chunker.py::fallback_split
+======================================================================
+Noise levels in Innisfree Hall
+
+Asked about this a lot so writing it down. Moderate; the building is l-shaped and the short wing is much quieter.
+
+If you're someone who needs quiet to work, the library is open until 2am during term and that's what most people in this building end up doing.
+
+For each one, ask: could someone answer a question using only this,
+without reading what came before or after?
 
 ## Sample Answer
 
