@@ -55,7 +55,7 @@ in at least 4 of 5 tries.
 
 ---
 
-## 4. Something about your chunks
+## 4. The chunks are in one single sentence with no line breaks.
 
 <!-- YOU WRITE THIS ONE.
 
@@ -77,7 +77,7 @@ in at least 4 of 5 tries.
 
 ---
 
-## 5. Your choice
+## 5. The source of the chunk must be directly related to the content
 
 <!-- YOU WRITE THIS ONE TOO.
 
